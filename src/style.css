@@ -1,0 +1,9 @@
+.task-list > li {
+    background-color: whitesmoke !important;
+    width: 400px !important;
+    text-align: center;
+}
+
+body {
+    background-color: #D8CCA3 !important;
+}
